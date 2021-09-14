@@ -1,9 +1,13 @@
-.text p {
-    color:white;
-    font-family: Arial;
+.text h1 {
+  color: rgba(172, 172, 172, 0.842);
+  font-family: Arial;
+  padding-left: 10%;
+  font-size: 30px;
+
 }
 
-.text h1 {
-    color:rgba(182, 170, 170, 0.548);
-    font-family: Arial;
+.text p {
+  color: white;
+  padding-left: 10%;
+  font-family: Arial;
 }
