@@ -1,0 +1,36 @@
+.text h1 {
+    color:white;
+    font-size:30px;
+    font-family: Arial;
+    padding-left: 800px;
+}
+
+.text p {
+    color:rgba(128,128,128);
+    padding-left:809px;
+    font-family: Arial;
+}
+
+.vertical-menu {
+    width: 400px; /* Set a width if you like */
+    margin:auto;
+    padding-top:150px;
+  }
+  
+  .vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+    font-family: Arial;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+  }
+  
+  .vertical-menu a.active {
+    background-color: #797979; /* Add a green color to the "active/current" link */
+    color: white;
+  }

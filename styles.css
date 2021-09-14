@@ -1,0 +1,19 @@
+.text h1 {
+    color: rgba(184, 32, 32, 0.842);
+    font-family: Arial;
+    padding-left: 10%;
+    font-size: 21px;
+  
+  }
+  
+  .text p {
+    color: white;
+    padding-left: 10%;
+    font-family: Arial;
+  }
+
+  .text b {
+    color: white;
+    padding-left: 10%;
+    font-family: Arial;
+  }
