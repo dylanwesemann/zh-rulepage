@@ -2,12 +2,12 @@
     color:white;
     font-size:30px;
     font-family: Arial;
-    padding-left: 800px;
+    text-align:center;
 }
 
 .text p {
     color:rgba(128,128,128);
-    padding-left:809px;
+    text-align:center;
     font-family: Arial;
 }
 
